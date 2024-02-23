@@ -13,7 +13,7 @@ const Order = () => {
             </div>
           </div>
         </div>
-        <div className="row py-5">
+        <div className="row ">
           <OrderOption
             icon="bi bi-truck text-center icon-order"
             title="Delivery Order"

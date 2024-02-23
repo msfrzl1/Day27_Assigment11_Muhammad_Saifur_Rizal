@@ -7,9 +7,9 @@ const Footer = () => {
     <footer className="container-fluid bg-dark mt-5 pt-3">
       <div className="row">
         <div className="col-md-5 text-light">
-          <h4 className="fs-3 mb-3">Restaurant Steak House</h4>
+          <h4 className="fs-3">Restaurant Steak House</h4>
           <p>The Steak House Restaurant has been established since 1989 until now. We are engaged in managing food, namely export and import meat</p>
-          <div className="fs-2">
+          <div className="fs-2 mb-3">
             <Link>
               <i className="bi bi-facebook text-warning me-2"></i>
             </Link>
@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
 
         <div className="col-md-4 text-light">
-          <h4 className="fs-3 mb-3 text-center">Contact</h4>
+          <h4 className="fs-3 mb-3">Contact</h4>
           <p>Get the latest information and promos from us.</p>
           <div className="col-md-12">
             <div className="mb-5">

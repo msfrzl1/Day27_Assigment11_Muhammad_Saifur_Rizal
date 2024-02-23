@@ -2,7 +2,7 @@ const OrderOption = (props) => {
   const { icon, title, description } = props;
 
   return (
-    <div className="col-md-4">
+    <div className="col-md-4 mb-4">
       <div className="card rounded shadow p-3 h-100" data-aos="zoom-in" data-aos-duration="500" data-aos-easing="ease-in-sine">
         <div className="text-center">
           <i className={icon}></i>
