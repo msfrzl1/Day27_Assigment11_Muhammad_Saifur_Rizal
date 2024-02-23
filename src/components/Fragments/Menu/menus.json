@@ -1,62 +1,62 @@
 [
   {
     "name": "Dry Aged Wagyu A5",
-    "image": "./src/assets/dryaged-wagyu-a5.jpeg",
+    "image": "./assets/dryaged-wagyu-a5.jpeg",
     "price": "$200"
   },
   {
     "name": "Dry Aged Tenderloin",
-    "image": "./src/assets/dryaged-tenderloin.jpeg",
+    "image": "./assets/dryaged-tenderloin.jpeg",
     "price": "$150"
   },
   {
     "name": "Dry Aged Sirloin",
-    "image": "./src/assets/dryaged-sirloin.jpeg",
+    "image": "./assets/dryaged-sirloin.jpeg",
     "price": "$130"
   },
   {
     "name": "Dry Aged Rib Eye",
-    "image": "./src/assets/dryaged-ribe-eye.jpeg",
+    "image": "./assets/dryaged-ribe-eye.jpeg",
     "price": "$130"
   },
   {
     "name": "Wagyu a5",
-    "image": "./src/assets/wagyu-a5.jpeg",
+    "image": "./assets/wagyu-a5.jpeg",
     "price": "$100"
   },
   {
     "name": "Tenderloin",
-    "image": "./src/assets/tenderloin.jpeg",
+    "image": "./assets/tenderloin.jpeg",
     "price": "$80"
   },
   {
     "name": "Sirloin",
-    "image": "./src/assets/sirloin.jpeg",
+    "image": "./assets/sirloin.jpeg",
     "price": "$75"
   },
   {
     "name": "Rib Eye",
-    "image": "./src/assets/ribe-eye.jpeg",
+    "image": "./assets/ribe-eye.jpeg",
     "price": "$90"
   },
   {
     "name": "Salad Sea Food",
-    "image": "./src/assets/salad1.jpeg",
+    "image": "./assets/salad1.jpeg",
     "price": "$15"
   },
   {
     "name": "Salad sause",
-    "image": "./src/assets/salad2.jpeg",
+    "image": "./assets/salad2.jpeg",
     "price": "$15"
   },
   {
     "name": "Salad Mayonais",
-    "image": "./src/assets/salad3.jpeg",
+    "image": "./assets/salad3.jpeg",
     "price": "$15"
   },
   {
     "name": "Salad Saus Manis",
-    "image": "./src/assets/salad4.jpeg",
+    "image": "./assets/salad4.jpeg",
     "price": "$15"
   }
 ]
