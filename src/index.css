@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: black;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 900;
+}
+
+span {
+  color: #f08e1e;
+  font-weight: 900;
+}
+
+h2,
+h3,
+h4 {
+  font-size: 24px;
+  font-weight: 900;
+}
+
+h5,
+h6 {
+  font-size: 18px;
+  font-weight: 900;
+}
+
+p,
+label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.buttonAll {
+  background-color: #f08e1e;
+  color: white;
+}
+
+.buttonAll:hover {
+  box-shadow: 0 0 5px #f08e1e;
+  background-color: #f08e1e;
+  color: white;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+.navbar img {
+  width: 60px;
+  border-radius: 100%;
+}
+
+.navbar-brand {
+  color: white;
+  display: flex;
+  align-items: center;
+  font-family: georgia;
+  font-weight: 900;
+  font-size: 1.7rem;
+  padding: 0;
+  margin: 0;
+  gap: 10px;
+}
+
+.navbar-nav {
+  gap: 15px;
+}
+
+.nav-link-list {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+  color: white;
+  text-decoration: none;
+  width: 100%;
+}
+
+.nav-link-list:hover {
+  background-color: rgb(69, 69, 69);
+  transition: 0.3s;
+  border-radius: 5px;
+  opacity: 0.9;
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+  color: white;
+}
+
+.img-header {
+  width: 100%;
+  height: 100vh;
+}
+
+.img-content {
+  width: 100%;
+  height: 600px;
+}
+
+.scrolled {
+  background-color: black;
+  transition: 0.3s ease-in;
+}
+
+.btn-menu {
+  width: 200px;
+  height: 50px;
+}
+
+.icon-order {
+  font-size: 88px;
+  color: #f08e1e;
+}
+
+.img-rating {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}

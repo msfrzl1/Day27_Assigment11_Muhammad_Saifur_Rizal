@@ -1,0 +1,134 @@
+[
+  {
+    "section": "home",
+    "data": [
+      {
+        "imageUrl": "/src/assets/home-1.jpg",
+        "title": "Welcome to Steak House Delights",
+        "description": "Step into a realm of culinary excellence where every dish tells a story of flavor and tradition. Our steak house invites you to savor the finest cuts expertly prepared to tantalize your taste buds."
+      },
+      {
+        "imageUrl": "/src/assets/home-2.jpg",
+        "title": "Your Steak House Haven Awaits",
+        "description": "Experience the allure of premium dining at our esteemed steak house. Amidst the inviting ambiance and tantalizing aromas, discover a sanctuary where every meal is a celebration of flavor and indulgence."
+      }
+    ]
+  },
+  {
+    "section": "menu",
+    "data": [
+      {
+        "imageUrl": "/src/assets/menu-1.jpg",
+        "title": "Savor Our Signature Dishes",
+        "description": "Explore our exquisite menu featuring a delectable selection of prime cuts, savory sides, and indulgent desserts. Each dish is crafted with care to tantalize your taste buds and leave you craving for more."
+      },
+      {
+        "imageUrl": "/src/assets/menu-2.jpg",
+        "title": "Experience Culinary Mastery",
+        "description": "Indulge in a culinary journey unlike any other as you discover the art of steak perfection. From classic favorites to innovative creations, our menu offers something extraordinary for every palate."
+      }
+    ]
+  },
+  {
+    "section": "contact",
+    "data": [
+      {
+        "imageUrl": "/src/assets/contact-1.jpg",
+        "title": "Get in Touch With Us",
+        "description": "Feel free to reach out to us for reservations, inquiries, or any assistance you may need. We're here to make your experience memorable!"
+      },
+      {
+        "imageUrl": "/src/assets/contact-2.jpg",
+        "title": "Visit Us Today",
+        "description": "Discover our location and immerse yourself in the welcoming ambiance of our steak house. We can't wait to welcome you!"
+      }
+    ]
+  },
+  {
+    "section": "about",
+    "data": [
+      {
+        "imageUrl": "/src/assets/about-1.jpg",
+        "title": "Discover Our Story",
+        "description": "Learn about our journey, values, and commitment to excellence. At our steak house, we take pride in delivering memorable dining experiences rooted in passion and tradition."
+      },
+      {
+        "imageUrl": "/src/assets/about-2.jpg",
+        "title": "Meet Our Team",
+        "description": "Get to know the talented individuals behind the scenes who bring our steak house to life. From chefs to servers, each member of our team is dedicated to exceeding your expectations."
+      }
+    ]
+  },
+  {
+    "section": "imagesUrl",
+    "data": ["/src/assets/profile.jpeg", "/src/assets/profile1.jpeg", "/src/assets/profile2.jpeg"]
+  },
+  {
+    "section": "menuBestSeller",
+    "data": [
+      {
+        "title": "Wagyu A5",
+        "image": "/src/assets/wagyu-a5.jpeg",
+        "description": "Wagyu A5 is a special type of beef known for its high quality, delicious taste, and high price. This type of Wagyu is the perfect choice for those who want to enjoy quality beef."
+      },
+      {
+        "title": "Sirloin",
+        "image": "/src/assets/sirloin.jpeg",
+        "description": "Sirloin is a cut of beef from the back of the cow. Although it tends to be tougher in texture, its taste is equally delicious with less fat content. In various restaurants, sirloin is a popular steak choice among many enthusiasts."
+      },
+      {
+        "title": "Tenderloin",
+        "image": "/src/assets/tenderloin.jpeg",
+        "description": "Tenderloin is a deep cut, which comes from the middle of the Wagyu beef. The texture of this part is classified as the softest, softest, and contains fat which makes it taste delicious."
+      },
+      {
+        "title": "Ribe eye",
+        "image": "/src/assets/ribe-eye.jpeg",
+        "description": "Originating from around the ribs and back area, rib eye is also a superior cut. You may be more familiar with the term rib eye. This part has the advantage of a level of deliciousness that makes it addictive."
+      },
+      {
+        "title": "Dry Aged Wagyu A5",
+        "image": "/src/assets/dryaged-wagyu-a5.jpeg",
+        "description": "Dry aged meat will rot and the muscles will be destroyed. This is what makes dry aged meat have a softer and more tender texture. Don't worry, even though the inside is soft, the outside of the meat is still dry."
+      },
+      {
+        "title": "Salad",
+        "image": "/src/assets/salad1.jpeg",
+        "description": "Food salads are served with dressing (sauce) and generally salads are served with crispy vegetables"
+      }
+    ]
+  },
+  {
+    "section": "reviews",
+    "data": [
+      {
+        "name": "Muhammad Subhan Ramdani",
+        "description": "I had an amazing experience at this restaurant. The service was excellent, and the staff was very attentive to our needs. The food was delicious, and the ambiance was perfect for a cozy evening out."
+      },
+      {
+        "name": "Nur Alya",
+        "description": "The restaurant offers a wide variety of dishes to choose from. I loved the food selection, and everything I ordered was tasty and well-prepared. The presentation of the dishes was also impressive."
+      },
+      {
+        "name": "Muhammad Saifur Rizal",
+        "description": "The atmosphere of the restaurant was warm and inviting. It had a cozy ambiance with dim lighting and comfortable seating. It was a perfect place to relax and enjoy a meal with friends or family."
+      }
+    ]
+  },
+  {
+    "section": "ModalReservation",
+    "data": [
+      { "type": "text", "id": "floatingInputName", "placeholder": "Name", "label": "Nama Anda" },
+      { "type": "select", "id": "floatingSelect", "label": "Pilih Jumlah Orang", "options": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] },
+      { "type": "email", "id": "floatingInputEmail", "placeholder": "name@example.com", "label": "Email" },
+      {
+        "type": "select",
+        "id": "floatingSelectTime",
+        "label": "Pilih Waktu",
+        "options": ["11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00", "19:00", "20:00"]
+      },
+      { "type": "date", "id": "floatingInputDate", "label": "Masukan Tanggal" },
+      { "type": "number", "id": "floatingInputPhone", "placeholder": "0897xxxxxx", "label": "No. Telpon" }
+    ]
+  }
+]
