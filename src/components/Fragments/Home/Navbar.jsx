@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="container">
         <div data-aos="fade-right" data-aos-duration="500" data-aos-easing="ease-in-sine" className="navbar-brand">
           <Link to="/Home" className="navbar-brand">
-            <img src="/src/assets/Logo-Steak-House.jpeg" alt="" />
+            <img src="./src/assets/Logo-Steak-House.jpeg" alt="" />
           </Link>
           <Link to="/Home" className="navbar-brand ">
             <h1 className="navbar-brand">
