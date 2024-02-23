@@ -17,7 +17,7 @@ const Header = ({ section }) => {
             <div className={`carousel-item  ${index === 0 ? "active" : ""}`} data-bs-interval="5000" key={index}>
               <img src={header.imageUrl} className="d-block w-100 img-header" alt="Header Image" />
               <div className="carousel-caption d-md-block" data-aos="fade-down" data-aos-duration="500" data-aos-easing="ease-in-sine">
-                <h2 className="mb-3">{header.title}</h2>
+                <h2>{header.title}</h2>
                 <p>{header.description}</p>
               </div>
             </div>
