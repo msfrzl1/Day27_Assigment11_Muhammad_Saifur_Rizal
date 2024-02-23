@@ -1,8 +1,8 @@
 const RestaurantAll = () => {
   const restaurants = [
-    { name: "Jakarta", image: "/src/assets/jakarta.jpeg" },
-    { name: "Bandung", image: "/src/assets/bandung.jpeg" },
-    { name: "Jogja", image: "/src/assets/joga.jpeg" },
+    { name: "Jakarta", image: "./assets/jakarta.jpeg" },
+    { name: "Bandung", image: "./assets/bandung.jpeg" },
+    { name: "Jogja", image: "./assets/joga.jpeg" },
   ];
 
   return (

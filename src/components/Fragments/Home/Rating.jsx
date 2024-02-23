@@ -29,7 +29,7 @@ const Rating = () => {
                 <div className="col" data-aos="zoom-in" data-aos-duration="500" data-aos-easing="ease-in-sine">
                   <div className="card d-flex align-items-center h-100 py-5">
                     <div className="mb-1">
-                      <img src="/src/assets/Logo-Steak-House.jpeg" alt="profile" className="img-rating" />
+                      <img src="./assets/Logo-Steak-House.jpeg" alt="profile" className="img-rating" />
                     </div>
                     <div className="card-body text-center p-0">
                       <h5 className="mb-2">{review.name}</h5>
